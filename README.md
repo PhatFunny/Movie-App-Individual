@@ -1,2 +1,2 @@
-# Movie-Streaming-App-Individual
+# Movie-App-Individual
 Create movie app use Java
